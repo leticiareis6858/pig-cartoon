@@ -1,0 +1,31 @@
+//fundo
+background(135, 231, 255); //céu
+fill(4, 189, 4);
+rect(1, 314, 400, 85); //chão
+fill(250, 217, 50);
+ellipse(66, 68, 89, 89); //sol
+//patas
+fill(255, 145, 198);
+ellipse(193, 302, 30, 30); //pata1
+ellipse(216, 305, 30, 30); //pata2
+ellipse(266, 302, 30, 30); //pata3
+ellipse(281, 303, 30, 30); //pata4
+//rabin
+ellipse(313, 224, 24, 20);
+//corpo
+fill(255, 145, 198);
+ellipse(240, 245, 149, 113);
+//cabeça
+fill(255, 145, 198);
+ellipse(117, 177, 30, 30); //orelha1
+ellipse(174, 178, 30, 30); //orelha2
+ellipse(144, 217, 92, 91); //face
+//rosto
+fill(3, 3, 3);
+ellipse(127, 203, 15, 15); //olho1
+ellipse(159, 203, 15, 15); //olho2
+fill(245, 93, 167);
+ellipse(143, 227, 30, 30); //focinho
+fill(232, 44, 138);
+ellipse(137, 227, 7, 7); //narina1
+ellipse(149, 227, 7, 7); //narina2
