@@ -7,7 +7,7 @@ A few months after making this code I caught a malware in my computer and I comp
 ## 🚀 How it was made
 
 This code was made in Khan Academy's course of animation with code in javaScript. I made it back in 2020.
-The code first was only the content in the 'example.js' file. But since it needed Processing.js to run, I had to adapt it to make it be able to be run with vs code. For that I just had to add the js code in an html file.
+The code first was only the content in the 'example.js' file. But since it needed Processing.js to run, I had to adapt it to make it be able to be run with vs code. For that I just had to add the js code in a html file.
 
 ## 📋 Prerequisites
 
