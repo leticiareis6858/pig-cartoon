@@ -1,47 +1,19 @@
-# Pig Cartoon
+# 🐷| Pig Cartoon
 
-This repository is for one of the very first code I have ever made. It consists in a simple draw of a pig.
-Pigs are my favorite animal and this code such as pigs, are really meanful to me.
-A few months after making this code I caught a malware in my computer and I completely lost this simple code. But after almost three years of search, I finally found back this code.
+Esse repositório é para um dos primeiríssimos códigos que eu fiz, consiste em um desenho simples de um porco.
+Os porcos são meus animais favoritos e esse código, como o dos porcos, é muito significativo para mim.
 
-## 🚀 How it was made
+Alguns meses depois de criar esse código, peguei um malware no meu computador e perdi esse código completamente. Mas depois de quase três anos de pesquisa, finalmente consegui recuperá-lo.
 
-This code was made in Khan Academy's course of animation with code in javaScript. I made it back in 2020.
-The code first was only the content in the 'example.js' file. But since it needed Processing.js to run, I had to adapt it to make it be able to be run with vs code. For that I just had to add the js code in a html file.
+## 💻 Como foi feito
 
-## 📋 Prerequisites
+Este código foi feito em 2020, para um exercício do curso de animação com código em javaScript da Khan Academy.
 
-What do you need to run it?
+Antes o código era apenas o conteúdo do arquivo 'example.js'. Mas como ele precisava do Processing.js para rodar, eu fiz algumas modificações para poder executá-lo de maneira mais simples. Para isso, apenas adicionei o código js em um arquivo html.
 
-```
-VsCode
-```
 
-```
-Live Code extension
-```
+## 🛠️ Como usar
 
-## 🔧 Installation
+1. Clone o repositório ou faça o download do arquivo zip
+2. Abra o arquivo *index.html* em um navegador ou use a extensão *Live Server* do VsCode.
 
-Step to step of how to install it:
-
-1. Click in <>Code
-
-2. Download zip
-
-3. Unzip the folder and place it somewhere in your computer
-
-4. Open the folder with VsCode or other IDE of your choice
-
-5. Do a right click somewhere in the 'index.html' file. Then click in 'Open with Live Server'.
-
-## 🛠️ How to use it
-
-After doing the installation, all you need to do is go to the browser tab that shall be automatically opened after opening the file with Live Server.
-In this tab you will see the pig cartoon.
-
-## ✒️ Author
-
-- **Ana Leticia V.R. de Carvalho**
-
-⌨️ ReadMe template by [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
