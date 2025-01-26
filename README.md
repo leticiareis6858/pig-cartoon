@@ -1,7 +1,7 @@
 # 🐷| Pig Cartoon
 
 Esse repositório é para um dos primeiríssimos códigos que eu fiz, consiste em um desenho simples de um porco.
-Os porcos são meus animais favoritos e esse código, como o dos porcos, é muito significativo para mim.
+<!--  Os porcos são meus animais favoritos e esse código, como o dos porcos, é muito significativo para mim. --> 
 
 Alguns meses depois de criar esse código, peguei um malware no meu computador e perdi esse código completamente. Mas depois de quase três anos de pesquisa, finalmente consegui recuperá-lo.
 
